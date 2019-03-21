@@ -1,3 +1,7 @@
+Python version:2.7.14
+Dependencies:Requests,logging,datetime
+Requests module can be installed using pip install requests
+
 1.Test Case 123(Test_123.py) and Test Case 456(test_456) can be run individually.
 2.Baseclass.py has to be kept in the same folder as the test cases
 3.separate logs files will be created for the 2 test cases.
