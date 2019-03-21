@@ -2,7 +2,6 @@
 Testcase to post a GET request to find a particular location
 """
 import logging
-import requests
 from BaseClass import baseaction
 
 class Action(baseaction):
